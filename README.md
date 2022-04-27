@@ -1,73 +1,56 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ruby-red)
+# TDD-Project
 
-# Project Name
-
-> Description the project.
-
+This is module 4 week 4 project. Implement a class with some methods, but you will do it by doing test-driven development (TDD).
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+## To get a local copy run the following steps:
 
-[Live Demo Link](https://livedemo.com)
+- Copy this link [this link](https://github.com/bereketretta/TDDSpecProject)
+- Open your terminal or command line
+- Run "git clone Paste [this link](https://github.com/bereketretta/TDDSpecProject)"
+- Open the folder with your code editor
 
+## To run the tests
+- Add to the terminal `rspec spec spec/filename.rb`
 
-## Getting Started
+## To get started-:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Run `bundle install` or `bundle i` to install the dependencies
+- Run `ruby main.rb` to run the School Library App!
+- Run `irb` to run the code by pasting it in the terminal.
+- Run `rubocop` to find and fix linters
 
+👤 **BEREKET ADEGO RETTA**
 
-To get a local copy up and running follow these simple example steps.
+- GitHub: [@bereketretta](https://github.com/bereketretta)
+- Twitter: [@bekiopia](https://twitter.com/bekiopia)
+- LinkedIn: [Bereket-retta](https://linkedin.com/in/Bereket-Retta)
 
-### Prerequisites
+👤 **Kamuntu Kandy**
 
-### Setup
+- GitHub: [@Kandy-Peter](https://github.com/Kandy-Peter)
+- Twitter: [@Peter-Kandi](https://www.linkedin.com/in/kandi-peter-a49590212)
+- LinkedIn: [Kandi Peter](https://twitter.com/peter_kandy)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../issues).
+
+
+## Acknowledgements
+
+- I would like to thank my code reviewers for their valuable feedback.
+- I would like to thank my learning partners and morning session members for their support.
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
